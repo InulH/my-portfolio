@@ -12,17 +12,18 @@ span{
     display: flex;
     background-image: url(images/web5.png);
     background-repeat: no-repeat;
+    margin-bottom: 150px;
 }
 .half-width
 {width: 40%;
-    padding-left: 5%;
-    padding-right: 1%;
+    padding-left: 6%;
+    padding-right: 10%;
 }
 .half-width img{
-    width: 110%;
+    width: 100%;
     padding-top: 5%;
-    padding-right: 15%;
-    margin-top: 2%;
+    margin-top: 1%;
+    padding-left: 10%;
 }
 .link-button{
     text-decoration: none;
@@ -31,4 +32,10 @@ span{
     border-radius: 5px;
     color: wheat;
     font-weight: 700;
+}
+.dream-big{
+    display: flex;
+    background-image: url(images/web1.png);
+    background-position:right;
+    background-repeat: no-repeat;
 }
