@@ -67,5 +67,8 @@ span{
     border-image-slice: 1;
     border-radius: 7px;
 }
+footer p{
+    text-align: center;
+}
 
    
